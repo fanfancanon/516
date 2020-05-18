@@ -1,0 +1,11 @@
+.components-tabtable{
+  width: 100%;
+}
+table{
+  width: 100%;
+  text-align: center;
+}
+table tr{
+  border: 1px solid gainsboro;
+  height: 50px;
+}
